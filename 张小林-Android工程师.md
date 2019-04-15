@@ -32,7 +32,7 @@
 - 项目描述：图书类APP
 - 负责工作：作为Android开发成员之一，负责相应的版块界面和逻辑功能的实现。如集成阿里云SDK实现拍摄视频，编辑视频和视频美颜等逻辑功能，点赞功能、评论、分享、微信QQ登录、微信支付、支付宝支付等第三方SDK的接入实现逻辑功能。
 - 项目成果：成功更新多个小版本，注册用户过万。
-- 下载地址：http://appstore.huawei.com/app/C100409963
+- 下载地址：http://app.hicloud.com/app/C10581373
  
 抖音表白相册H5 Demo
 - 效果预览：https://mengkzhang.github.io/justlikeu/sisterdyj.html
